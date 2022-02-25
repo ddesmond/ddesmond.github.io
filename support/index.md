@@ -1,3 +1,6 @@
+---
+title: Install and Setup
+---
 ### Support Clayman development!
 
 If you want to **support** **Clayman development** and new features, take a minute and consider one of the following license models.
