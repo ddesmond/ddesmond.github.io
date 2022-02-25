@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ddesmond.github.io/jay/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ddesmond.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -94,10 +94,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
-    help:
-      output: true
-      permalink: /help/:title      
+      permalink: /notes/:title      
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
@@ -130,13 +127,6 @@ defaults:
       type: notes
     values:
       layout: Post
-      content-type: notes
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: Post
-      permalink: /help/:title
       content-type: notes
 
 
