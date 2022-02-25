@@ -28,10 +28,10 @@ url: "https://ddesmond.github.io/" # the base hostname & protocol for your site,
 # your social media links etc
 #######################################################################
 
-heading: Digital Garden # Change this 
+heading: Clayman Asset Manager # Change this 
 copyright:  
   year: 2021
-  msg: Your Name # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  msg: Obrt Dobro, Aleks Katunar, Žabica 1, 51000, Rijeka, Croatia, Europe, Earth, Milky Way # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
 #####################################################################
