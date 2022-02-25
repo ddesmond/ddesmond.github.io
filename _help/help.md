@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /help
+permalink: /help/help
 title: Help
 ---
 General Asset Import guide: 

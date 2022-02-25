@@ -100,7 +100,7 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     ## Disabled for NotesGarden Theme. 
-    shortname: 
+    shortname: Clayman
 
 markdown: kramdown
 
