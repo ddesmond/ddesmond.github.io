@@ -4,4 +4,4 @@ notetype : feed
 date : 01-02-2021
 ---
 
-![image]({{site.baseurl | prepend: site.url}}help/media/gifs/clayman_howto_files.gif)
+![image]({{site.baseurl | prepend: site.url}}assets/media/gifs/clayman_howto_files.gif)
