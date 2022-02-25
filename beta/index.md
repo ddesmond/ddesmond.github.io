@@ -1,3 +1,8 @@
+---
+layout: Post
+permalink: /beta
+title: Beta
+---
 Current Beta builds:
 
 [Windows 10](https://www.clayman.app/beta/downloads/)
