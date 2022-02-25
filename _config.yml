@@ -127,6 +127,7 @@ defaults:
       type: notes
     values:
       layout: Post
+      permalink: /help/:title
       content-type: notes
 
 
