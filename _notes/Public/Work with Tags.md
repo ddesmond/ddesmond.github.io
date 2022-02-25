@@ -1,5 +1,5 @@
 ---
-title : Tags
+title : Work with Tags
 notetype : feed
 date : 01-02-2021
 ---
