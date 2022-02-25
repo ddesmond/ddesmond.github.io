@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/NewTest.md",
+            "file": "_notes/Public/Markdown Rendered.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/NewTest.md",
+                "file": "_notes/Public/Markdown Rendered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "1b3b63da953e356f",
   "lastOpenFiles": [
-    "_posts/NewTest.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "pages/index.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Test.md",
     "pages/posts.md",
     "pages/notes.md",
-    "README.md",
-    "_notes/Test.md"
+    "pages/index.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/NewTest.md",
+    "_posts/2020-03-01-features.md",
+    "README.md"
   ]
 }
