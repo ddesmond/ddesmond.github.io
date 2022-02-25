@@ -1,3 +1,8 @@
+---
+layout: Post
+permalink: /help
+title: Help
+---
 General Asset Import guide: 
 [Work with Asset Importer](/help/import)
 
