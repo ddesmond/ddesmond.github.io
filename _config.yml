@@ -128,7 +128,13 @@ defaults:
     values:
       layout: Post
       content-type: notes
-
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: Post
+      permalink: /support/:title
+      content-type: post
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
