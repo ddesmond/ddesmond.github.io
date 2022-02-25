@@ -1,3 +1,8 @@
+---
+layout: Post
+permalink: /help/interface
+title: Interface
+---
 <h3><b>Clayman Interface</b></h3>
 
 

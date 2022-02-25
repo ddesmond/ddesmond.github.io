@@ -1,3 +1,8 @@
+---
+layout: Post
+permalink: /help/cateogries-collections
+title: Categories Collections
+---
 <h3><b>Clayman HowTo's</b></h3>
 
 <h4><b>Collections</b></h4>

@@ -1,3 +1,8 @@
+---
+layout: Post
+permalink: /help/work-with-tags
+title: Tags
+---
 <h3><b>Clayman HowTo's</b></h3>
 
 
