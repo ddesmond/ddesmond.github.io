@@ -30,8 +30,8 @@ url: "https://ddesmond.github.io/" # the base hostname & protocol for your site,
 
 heading: Clayman Asset Manager # Change this 
 copyright:  
-  year: 2021
-  msg: Your Name # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  year: 2022
+  msg: Obrt Dobro - Aleks Katunar # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
 #####################################################################
@@ -128,13 +128,6 @@ defaults:
     values:
       layout: Post
       content-type: notes
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: Post
-      permalink: /help/:title
-      content-type: post
 
 # Exclude from processing.
 # The following items will not be processed, by default.
