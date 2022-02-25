@@ -94,7 +94,10 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /notes/:title      
+      permalink: /notes/:title
+    help:
+      output: true
+      permalink: /help/:title      
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
@@ -127,6 +130,13 @@ defaults:
       type: notes
     values:
       layout: Post
+      content-type: notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: Post
+      permalink: /help/:title
       content-type: notes
 
 
