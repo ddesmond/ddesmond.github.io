@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_posts/NewTest.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_posts/NewTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,13 @@
   },
   "active": "1b3b63da953e356f",
   "lastOpenFiles": [
-    "README.md",
-    "pages/posts.md",
-    "pages/notes.md",
-    "pages/index.md",
+    "_posts/NewTest.md",
     "_posts/2020-03-01-how-to.md",
     "_posts/2020-03-01-features.md",
+    "pages/index.md",
+    "pages/posts.md",
+    "pages/notes.md",
+    "README.md",
     "_notes/Test.md"
   ]
 }
