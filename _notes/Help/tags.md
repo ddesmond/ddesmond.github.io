@@ -1,7 +1,7 @@
 ---
-layout: Post
-permalink: /help/work-with-tags
-title: Tags
+title : Tags
+notetype : feed
+date : 01-02-2021
 ---
 <h3><b>Clayman HowTo's</b></h3>
 

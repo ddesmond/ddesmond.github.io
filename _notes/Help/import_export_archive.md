@@ -1,7 +1,7 @@
 ---
-layout: Post
-permalink: /help/import-export-archives
 title: Import export archive
+notetype : feed
+date : 01-02-2021
 ---
 <h3><b>Clayman HowTo's</b></h3>
 

@@ -1,7 +1,7 @@
 ---
-layout: Post
-permalink: /help/cateogries-collections
 title: Categories Collections
+notetype : feed
+date : 01-02-2021
 ---
 <h3><b>Clayman HowTo's</b></h3>
 

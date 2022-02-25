@@ -1,7 +1,7 @@
 ---
-layout: Post
-permalink: /help/delete-package
 title: Delete package
+notetype : feed
+date : 01-02-2021
 ---
 <h3><b>Clayman HowTo's</b></h3>
 
