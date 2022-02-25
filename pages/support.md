@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /support
-title: Support Clayman Development
+title: Support
 ---
 
 ### Support Clayman development!
