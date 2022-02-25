@@ -1,7 +1,3 @@
-{% include nav.html %}
-
-
-
 Clayman Asset manager
 
 Copyright (C) 2021-2022 Obrt Dobro, Aleks Katunar, Rijeka Croatia, Europe.

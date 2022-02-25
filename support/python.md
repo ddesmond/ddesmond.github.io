@@ -1,6 +1,3 @@
-{% include nav.html %}
-
-
 #### Python dependencies install
 
 For Clayman to be able to run inside another software additional python packages needs to be installed. 
