@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/posts.md",
+            "file": "_posts/2020-03-01-features.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_posts/2020-03-01-features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1b3b63da953e356f",
   "lastOpenFiles": [
+    "_posts/2020-03-01-features.md",
+    "help/index.md",
+    "help/import.md",
     "pages/posts.md",
     "pages/notes.md",
     "pages/index.md",
     "pages/help.md",
-    "help/index.md",
     "help/interface.md",
-    "help/import.md",
     "help/howto/tags.md",
-    "help/howto/metaviews.md",
-    "help/howto/import_export_archive.md"
+    "help/howto/metaviews.md"
   ]
 }
