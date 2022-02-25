@@ -120,7 +120,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /posts/:title
+      permalink: /info/:title
       content-type: post
   - scope:
       path: ""
