@@ -31,9 +31,9 @@
 
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Digital Garden" property="og:site_name" />
+    <meta content="Clayman Asset Manager" property="og:site_name" />
     <meta
-        content="A Jekyll theme for Obsidian users to build digital garden"
+        content="Clayman Asset Manager for Artists and alikes"
         property="og:description">
     <meta content="{{ site.url }}/about/" property="article:author">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -93,7 +93,7 @@
             or page.content-type == "post"  -%}
                 <div class="column is-10">
                     <main>
-                        <div class="note-page-section">
+                        <div class="block">
                             <div class="buttons for-back-home">
                                 {%- if site.preferences.homepage.enabled -%}
                                 <a class="button is-text button__page-back" onclick="window.history.back();">
@@ -110,7 +110,7 @@
                                     </span>
                                 </a>
                             </div>
-                        <h1>{{page.title}}</h1>
+                        <!-- <h3>{{page.title}}</h3> -->
                         {%- include Content.html -%}
                         {%- include Backlinks.html -%}
                         </div>
@@ -125,7 +125,7 @@
             {%- if page.content-type == "eg" -%}
                 <div class="column is-half">
                     <main>
-                        <h1>{{page.title}}</h1>
+                        <!-- <h3>{{page.title}}</h3> -->
                         {%- include Content.html -%}
                         {%- include Footer.html -%}
 
@@ -137,7 +137,7 @@
 
             {%- if page.permalink == "/posts" -%}
                 <div class="column is-half">
-                    <h1>{{page.title}}</h1>
+                    <!-- <h3>{{page.title}}</h3> -->
                     <div class="block">
                         {% for item in site.posts %}
                             <div class="block note-cards">

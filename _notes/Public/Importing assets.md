@@ -1,15 +1,13 @@
 ---
 title: Importing assets
 notetype : feed
-date : 01-01-2021
+date : 22-02-2022
 ---
-
-<h3><b>Creating an Asset Package</b></h3>
+### Creating an Asset Package
 
 To <b>Create a new package</b>, while in the Desktop application, simply drop your files over the Clayman application or press the **+** icon in the toolbar. This will trigger the Import popup window to appear over Clayman.
 
 <img src="/assets/media/clayman_empty.png" width="600">
-
 
 <img src="/assets/media/clayman_import_empty.png" width="600">
 
@@ -28,23 +26,23 @@ Select an image to be the <b>Package thumbnail</b>, currently only JPG or PNG ar
 
 Best visual results have Thumbnails which actualy show whats in the package (color and content wise) 512x512 or 1024x1024. <b>Square format only supported. Everyhting else will get scaled to to fit 1:1 ratio.</b>
 
-
 <b>Importing heavy filesize assets yields to longer importing times, since the copying of actual files is done in this step.
 Wait until progress says 100% !</b>
 
 <img src="/assets/media/clayman_imported_asset.png" width="600">
 
 
+
 Learn more about Clayman!
-[[Index]]
-[[Clayman Interface]]
-[[Importing assets]]
-[[Work with Tags]]
+
+[[Clayman Interface]] | 
+[[Importing assets]] | 
+[[Work with Tags]] | 
 
 Learn more about Packages:
-[[Create - Import a Package]]
-[[Delete a Package]]
-[[Import - Export Package]]
-[[Importing assets]]
+
+[[Create - Import a Package]] | 
+[[Delete a Package]] | 
+[[Import - Export Package]] | 
+[[Importing assets]] | 
 [[Work with Tags]]
-[[Index]]

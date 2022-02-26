@@ -1,10 +1,11 @@
 ---
 title: Index
 notetype : feed
-date : 01-01-2021
+date : 22-02-2022
 ---
-
+### Index
 General Asset Import guide: 
+
 [[Clayman Interface]]
 
 [[Importing assets]]
@@ -18,6 +19,7 @@ General Asset Import guide:
 
 
 Learn more about Packages:
+
 [[Create - Import a Package]]
 
 [[Delete a Package]]
