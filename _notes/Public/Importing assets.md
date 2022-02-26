@@ -35,3 +35,16 @@ Wait until progress says 100% !</b>
 <img src="/assets/media/clayman_imported_asset.png" width="600">
 
 
+Learn more about Clayman!
+[[Index]]
+[[Clayman Interface]]
+[[Importing assets]]
+[[Work with Tags]]
+
+Learn more about Packages:
+[[Create - Import a Package]]
+[[Delete a Package]]
+[[Import - Export Package]]
+[[Importing assets]]
+[[Work with Tags]]
+[[Index]]

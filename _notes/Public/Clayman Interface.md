@@ -49,3 +49,16 @@ Clayman consist of tabs and widgets. Those can be shown and configured how user 
 <img src="/assets/media/clayman_invalid_packages.png" height="400"> 
 
 
+Learn more about Clayman!
+[[Index]]
+[[Clayman Interface]]
+[[Importing assets]]
+[[Work with Tags]]
+
+Learn more about Packages:
+[[Create - Import a Package]]
+[[Delete a Package]]
+[[Import - Export Package]]
+[[Importing assets]]
+[[Work with Tags]]
+[[Index]]

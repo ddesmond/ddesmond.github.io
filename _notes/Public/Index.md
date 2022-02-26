@@ -5,37 +5,31 @@ date : 01-01-2021
 ---
 
 General Asset Import guide: 
-[Work with Asset Importer](/help/import)
+[[Clayman Interface]]
 
-General Interface guide: 
-[Interface Guide](/help/interface)
+[[Importing assets]]
 
-----
-HowTos:
+[[Add Any File]]
 
+[[Categories and Collections]]
 
-[Create Package](/help/howto/create_package)
-
-[Delete Package](/help/howto/delete_package)
-
-[Import / Export Archived Package](/help/howto/import_export_archive)
-
-[Work with Tags](/help/howto/tags)
-
-[Work with Viewer and Metadata](/help/howto/metaviews)
-
-[Work with Collections - Categories](/help/howto/categories_colllections)
-
-[Add Any file as Package](/help/howto/add_any_file)
+[[Metaviews]]
 
 
 
+Learn more about Packages:
+[[Create - Import a Package]]
+
+[[Delete a Package]]
+
+[[Import - Export Package]]
+
+[[Importing assets]]
+
+[[Work with Tags]]
 
 
+---
 
-----
-Misc tech things as:
-
-*Missing icon in tray*
-
+**Missing icon in tray**
 Try right click on the Taskbar icon while Clayman is running, and pin it to Taksbar so Windows are forced to refresh the icon.
