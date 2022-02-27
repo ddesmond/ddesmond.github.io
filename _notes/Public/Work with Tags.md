@@ -4,6 +4,7 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Work with Tags
+
 Tags are an essential part of Clayman. Everything is a Tag.
 
 Even if you didint write any tags while importing an assets, it will be tagged with its type and name.

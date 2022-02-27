@@ -4,6 +4,7 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Categories and Collections
+
 The Collections holds your Tags, Categories and Saved searches data.
 
 <h4><b>Collections</b></h4>

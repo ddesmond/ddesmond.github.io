@@ -4,6 +4,7 @@ notetype : feed
 date : 23-02-2022
 ---
 ### Clayman User Folder
+
 Default Clayman user folder is always created at the user home folder, ex. `C:/Users/Des/Clayman` or `/home/des/Clayman`.
 
 The user folder is holding data user creates such as categories or folders in the Collections view. 

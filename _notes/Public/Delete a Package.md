@@ -4,7 +4,10 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Delete a Package
+
 Package can be deleted by firstly selecting a package or multiple ones, and pressing Delete package on the Toolbar or mouse right-click > Delete assets.
+
+This operation will delete data on your hard disk.
 
 ![image]({{site.baseurl | prepend: site.url}}assets/media/gifs/clayman_howto_delete_assets.gif)
 

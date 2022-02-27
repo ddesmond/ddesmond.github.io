@@ -4,7 +4,8 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Create - Import a Package
-Creating a package is very simple!
+
+Creating a package is very simple and straightforward process!
 Although simple, you will want to spend some time on it to enter the relevant information about the stuff youre about to import.
 
 Follow this short tutorial how to do it :)

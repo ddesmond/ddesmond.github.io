@@ -4,6 +4,7 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Import - Export Package
+
 Clayman has the ability to export a package as a zip file for further consuming, archiving, or sending to another library.
 
 Selecting an asset and Choosing the Export action will ask you for a save location where the Archived packages will be held.

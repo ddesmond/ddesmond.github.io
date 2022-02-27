@@ -4,12 +4,13 @@ notetype : feed
 date : 22-02-2022
 ---
 ### Clayman Layout Views
+
 ![image]({{site.baseurl | prepend: site.url}}assets/media/clayman_standard_view.png){: width="900" }
 
 ![image]({{site.baseurl | prepend: site.url}}assets/media/clayman_extended_view.png){: width="900" }
 
 When Clayman starts it loads a standard Window layout view. The Window layout view can be quickly changed with shortcut CTRL+1 to 6, which will show a predefined View layout.
-User can save custom Window layout in the View Menu, or to save the current layout with CTRL+S. All User saves are in the Clayman userdata folder in you User home folder.
+User can save custom Window layout in the View Menu, or to save the current layout with CTRL+S. All User saves are in the [[Clayman User Folder]], userdata,  in you User home folder.
  
  ![image]({{site.baseurl | prepend: site.url}}assets/media/clayman_save_view.png){: width="302" }
  ![image]({{site.baseurl | prepend: site.url}}assets/media/clayman_views.png){: width="472" }
