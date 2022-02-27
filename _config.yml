@@ -105,11 +105,11 @@ disqus:
 markdown: kramdown
 
 kramdown:
-  input: Kramdown
-  hard_wrap: true
+  input: GFM
+  hard_wrap: false
   math_engine: katex
   smart_quotes: ["apos", "apos", "quot", "quot"]
-  #syntax_highlighter: rouge
+  syntax_highlighter: rouge
   
 sass:
   style: compressed
