@@ -1,12 +1,17 @@
 ---
-title: Delete a Package
+title : Splashscreen
 notetype : feed
 date : 22-02-2022
 ---
-### Delete a Package
-Package can be deleted by firstly selecting a package or multiple ones, and pressing Delete package on the Toolbar or mouse right-click > Delete assets.
+### Splashscreens in Clayman
 
-![image]({{site.baseurl | prepend: site.url}}assets/media/gifs/clayman_howto_delete_assets.gif)
+Clayman has a powerfull splasscreen system.
+Users can fuly customize Clayman splashscreen.
+
+Splashes can be set adding more images to the [[Clayman User Folder]] in your OS home folder.
+Using 800pxx400px images yields a nice splash.
+
+![image]({{site.baseurl | prepend: site.url}}assets/media/clayman_splashes.png){: width="400" }
 
 
 

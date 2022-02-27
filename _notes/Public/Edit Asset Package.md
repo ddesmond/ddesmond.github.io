@@ -13,7 +13,7 @@ If you change the name of the package - it gets moved on the filesystem level! S
 
 You can add or remove items from the packages, change the tags or description.
 
-If you want to rebuild the package instead check the Rebuild package help.
+If you want to Rebuild the package instead check the  [[Rebuild Package]] help.
 
 
 

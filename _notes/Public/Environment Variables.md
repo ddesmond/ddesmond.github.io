@@ -7,9 +7,9 @@ date : 22-02-2022
 Clayman uses environment variables to automaticaly drive the Library or user data loading.
 
 
-Default Clayman user folder is always created at the user home folder, ex. `C:/Users/Des/Clayman` or `/home/des/Clayman`.
+Default [[Clayman User Folder]] is always created at the user home folder, ex. `C:/Users/Des/Clayman` or `/home/des/Clayman`.
 
-Setting `CLAYMAN_USER_FOLDER` will load the Clayman user folder from there. Be sure to copy the whole folder Clayman creates so it can properly load all files.
+Setting `CLAYMAN_USER_FOLDER` will load the [[Clayman User Folder]] from there. Be sure to copy the whole folder Clayman creates so it can properly load all files.
 
 ```
 CLAYMAN_USER_FOLDER = /path/to/Clayman_user_folder

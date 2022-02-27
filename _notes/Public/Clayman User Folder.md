@@ -8,7 +8,7 @@ Default Clayman user folder is always created at the user home folder, ex. `C:/U
 
 The user folder is holding data user creates such as categories or folders in the Collections view. 
 
-User folder is a place where Clayman saves its UI configuration settings, Clayman preferences, categories and searches, splash screens and plugins. To learn more about the plugins visit the dedicated plugins page.
+User folder is a place where Clayman saves its UI configuration settings, Clayman preferences, categories and searches, splashscreens and plugins. To learn more about the plugins visit the dedicated  [[Package Context Plugins]] page.
 
 If Clayman starts to be bugy, or your preferences got somehow corrupted, user can reset the user folder to defaults, which will erase all user settings and data and start fresh. This will invalidate all the itegrations, and the integrations will have to be reinstalled from the Integrations menu.
 
